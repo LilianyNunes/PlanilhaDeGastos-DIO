@@ -6,7 +6,7 @@ Bem-vindo ao repositório da **Planilha Inteligente de Gastos**! Este projeto fo
 
 Aqui está uma prévia da planilha:
 
-![Planilha Inteligente de Gastos](Assets/planilha.png)
+![Planilha Inteligente de Gastos](Assets/planilha-gastos.png)
 
 > **Nota:** A imagem acima é apenas uma demonstração. Faça o download para explorar todas as funcionalidades!
 
